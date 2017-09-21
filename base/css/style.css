@@ -1,1 +1,30 @@
 @charset "utf-8";
+
+#wrapper{
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+#header{
+    height: 100px;
+    margin-bottom: 50px;
+}
+
+#main{
+    width: 620px;
+    height: 500px;
+    float: left;
+}
+
+#sub{
+    width: 300px;
+    height: 500px;
+    float: right;
+}
+
+#footer{
+    height: 100px;
+    clear: both;
+}
+
