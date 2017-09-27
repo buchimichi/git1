@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 #wrapper{
-    width: 960px;
+    width: 940px;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -32,4 +32,17 @@
     background-color: #0c0;
     clear: both;
 }
+
+#about #main{
+    width: 940px;
+}
+
+
+
+
+
+
+
+
+
 
